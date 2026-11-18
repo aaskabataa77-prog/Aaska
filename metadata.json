@@ -1,0 +1,6 @@
+{
+  "name": "Зуун Шалтгаан",
+  "description": "Найз охиндоо хайртай 100 шалтгаан болон дотроос нь зүрхний үг, хөдөлгөөнт зүрх, захидал гарч ирэх гэрэлтэх Нууц хайрцаг.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
